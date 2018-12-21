@@ -1,0 +1,2 @@
+HTTPS	https://github.com/ditcheshurt/onlc_course.git
+SSH		git@github.com:ditcheshurt/onlc_course.git
